@@ -1,3 +1,14 @@
+# BloodPatrol: Revolutionizing Blood Cancer Diagnosis — Advanced Real-Time Detection Leveraging Deep Learning & Cloud Technologies
+
+This repository contains the official implementation of the paper:
+
+> **BloodPatrol: Revolutionizing Blood Cancer Diagnosis — Advanced Real-Time Detection Leveraging Deep Learning & Cloud Technologies**
+> **Jinhang Wei**, Longyue Wang, Zhecheng Zhou, Linlin Zhuo, Xiangxiang Zeng, Xiangzheng Fu, Quan Zou, Keqin Li, Zhongjun Zhou.
+> *IEEE Journal of Biomedical and Health Informatics*, 2024.
+> DOI: [10.1109/JBHI.2024.3496294](https://doi.org/10.1109/JBHI.2024.3496294)
+
+> **Note on authorship:** This codebase and the main research work (model design, implementation, experiments, and manuscript drafting) were carried out primarily by **Jinhang Wei** (first author).
+
 # System Requirements
 - Python Version: 3.9.16
 - Libraries:
